@@ -1,0 +1,17 @@
+ul li a,
+ul li,
+ol li,
+p {
+    color:rgb(25, 140, 255);
+    background-color: rgb(255, 221, 227);
+
+}
+
+h1  {
+    color:rgb(255, 201, 135);
+}
+
+* {
+    background-color:rgb(233, 255, 251)
+}
+
